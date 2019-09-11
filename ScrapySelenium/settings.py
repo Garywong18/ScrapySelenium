@@ -91,4 +91,4 @@ ITEM_PIPELINES = {
 
 MAX_PAGE = 100
 KEYWORDS = 'ipad'
-COOKIES = 'cna=3dZ2FP071m8CAbSq12IcxR7y; miid=832751451142794490; tracknick=%5Cu5E7B%5Cu60F3%5Cu732B11; tg=0; thw=cn; enc=ajaj81fZaZibv0FQK5G8pe%2FLjLG2xqxnc%2FC6ju8uKopySiZtxs2A72VCd1e8W0GBkpl9yizZHoxIZs0WnrpizQ%3D%3D; x=e%3D1%26p%3D*%26s%3D0%26c%3D0%26f%3D0%26g%3D0%26t%3D0%26__ll%3D-1%26_ato%3D0; hng=CN%7Czh-CN%7CCNY%7C156; t=ab16ace798f92aeaf0882ba83d9ca1f3; _cc_=VFC%2FuZ9ajQ%3D%3D; v=0; cookie2=1a8a16b6d83845632484abc32f6a8d3b; _tb_token_=e3aed7e85e3d1; JSESSIONID=C70F2635550DC8F8C6BDC91E382A4360; alitrackid=www.taobao.com; lastalitrackid=www.taobao.com; mt=ci%3D-1_0; isg=BKSkE43jpWB8YNeqRLm9n25bdaJWlcmvqQUZZ77FMG8yaUQz5k2YN9rALYFUsQD_; l=cBjk33Lnv4qeON1KBOCgCuI8Ls_OSIRAguPRwC0Mi_5QJ6T_LK_Okz0fJF96VjWdtYYB4JuaUMv9-etk9SeL58pRWkvP'
+COOKIES = ''
